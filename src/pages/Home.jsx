@@ -133,7 +133,7 @@ const Home = () => {
                           {t("sec33")}
             </h1>
             <p className="w-[230px] text-[16px] text-[#FFFFFF] font-[700]">
-                          {t("sec14")}
+                          {t("sec34")}
             </p>
           </div>
 
@@ -146,7 +146,7 @@ const Home = () => {
                           {t("sec33")}
             </h1>
             <p className="dark:text-[white] w-[230px] text-[16px] text-[#434343] font-[700]">
-                          {t("sec14")}
+                          {t("sec34")}
             </p>
           </div>
 
@@ -159,7 +159,7 @@ const Home = () => {
                           {t("sec33")}
             </h1>
             <p className="dark:text-[white] w-[230px] text-[16px] text-[#434343] font-[700]">
-                          {t("sec14")}
+                          {t("sec34")}
             </p>
           </div>
 
@@ -172,7 +172,7 @@ const Home = () => {
                           {t("sec33")}
             </h1>
             <p className="dark:text-[white] w-[230px] text-[16px] text-[#434343] font-[700]">
-                          {t("sec14")}
+                          {t("sec34")}
             </p>
           </div>
         </div>
@@ -264,7 +264,7 @@ const Home = () => {
         <div className="w-full lg:w-[75%] flex flex-wrap">
           <div className="dark:bg-[#13203b] dark:text-white w-full lg:w-[330px] h-auto lg:h-[320px] bg-white p-5 rounded-tl-[10px] rounded-bl-[10px] flex flex-col justify-evenly mb-5 lg:mb-0">
             <h1 className="dark:text-white text-[20px] lg:text-[24px] text-[#056088] font-extrabold">
-                          {t("sec161")}
+                          {t("sec61")}
             </h1>
             <p className="dark:text-white text-[16px] lg:text-[18px] text-[#434343]">
             {t("sec62")}
